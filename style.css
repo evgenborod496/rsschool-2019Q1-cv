@@ -17,3 +17,8 @@
 .container a:hover {
   text-decoration: underline;
 }
+
+.container__photo {
+  float: right;
+  margin: 15px; 
+}
